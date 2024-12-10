@@ -1,0 +1,6 @@
+https://emojipedia.org/bug
+Usefull for getting Github/Discord compatible emojis for markdownfiles
+
+https://github.github.com/gfm/
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+Usefull for learning GFM (GitHub Flavored Markdown). Which will be used to create/make the .md files in the directory.
