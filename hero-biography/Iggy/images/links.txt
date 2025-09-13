@@ -1,3 +1,0 @@
-image_part1.jpg=https://cdn.discordapp.com/attachments/799541131670061056/846270581585608724/12.jpg?ex=68c5b525&is=68c463a5&hm=4398573d6a5016158291f9d403a9170a5679acfa4f2afa9d2284eff0cd78bd52&
-image_part2.jpg=https://cdn.discordapp.com/attachments/799541131670061056/846573739784798208/22.jpg?ex=68c57dfc&is=68c42c7c&hm=d4815a5fef1a21ea8c902b1a2fe5acf2a0ec5cccf9d1dead213ee92981b80b78&
-image_part3.jpg=https://cdn.discordapp.com/attachments/799541131670061056/846627088995057698/3.jpg?ex=68c5afab&is=68c45e2b&hm=3a944a609b17f6e2bbb0f8ead154c86b1c391f6aef7b4c552e92155cf2f53cdd&
