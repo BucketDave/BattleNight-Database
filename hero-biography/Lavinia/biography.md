@@ -54,3 +54,21 @@ When she opened her eyes again, she found herself at the bottom of a pit, and th
 “Phew, yet another nightmare.”
 
 ![image_part3](./images/image_part3.jpeg)
+
+The war was imminent. 
+IFOB and the black-robed men were waiting for their opportunity. Warships were blowing up behind them, and it seemed like there were only a few AAA warships had remained. The IFOB was waiting for a determined outcome from the battle above, it seemed as if the black-robed men had given up, each of them just stood on the spot with their heads down.
+“Some thing's not right.”
+The sky had quieted down, Mikaela raised her weapon, and then whispers came to her ear, which then became louder and louder.
+“They are beginning a ceremony.” Mikaela warned loudly, but it was already too late, black robes started falling to the ground all over the place, the men in those black robes were simply disappearing, leaving only their black cloaks behind.
+"Hehe, I am about to return to the grace of God, but before that, I will first show you the truth.” The leader of the black-robed men took off his robe. When his robe fell to the ground, his body started to emit a black fog, which then started to grow bigger and bigger, within the fog thousands of eyes gradually started to open. 
+Under the gaze of these eyes, Mikaela saw The Vortex, the universe, and her eyes started to bleed, she then started to feel like her brain was being ripped in half, finally her body became completely paralyzed.
+The black fog had engulfed everyone, all sounds became subdued by whispers until a fire lights up from nowhere, and all of a sudden everybody was sheltered under the shadow of a giant creature.
+Mikaela had regained consciousness, in front of her she saw a huge mechanical dragon protecting the people, standing in front of the people was the white-haired girl.
+“Dragon’s Breath”
+With its breath of fire, the dragon lit the black-robed men on fire, the black fog then subsided, and their surrounding eyes started disappearing one by one until finally there was only the black-robed leader left, who had been unable to act from the very beginning.
+“It’s too bad, Lavinia, you had more potential than we thought, hehe, I hope you’ll change your mind next time.” With that said, the black-robed man disappeared into the flames. 
+Lavinia looked back, staring at the crowd of people with her bluish violet slit pupiled eyes, making the atmosphere tense. Her eyes then squinted and her face cracked a big smile.
+“I want to go to the IFOB to see The Vortex, is that ok?”
+“You’re welcome anytime!”
+
+![image_part4](./images/image_part4.jpeg)
