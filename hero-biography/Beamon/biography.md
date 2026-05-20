@@ -28,5 +28,3 @@ Beamon did everything he could to find the Sayung, but it seemed like he had com
 “if it was me who had slaughtered the town, what would you do? Sayung.“
 
 ![image_part3](./images/image_part3.png)
-
-![image_poster](./images/image_poster.png)
