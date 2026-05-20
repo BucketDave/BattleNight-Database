@@ -19,7 +19,7 @@ In one of the corners of the stadium was a figure of a man, wearing cap with sun
 ## Part 2
 
 In a dark room, a man was quickly flipping through the videos in his camera.
-In one of the videos, $age is recorded walking out of a closed room, in his hand he was carefully holding a glass cup of some sort, which had some intriging red liquid in it.
+In one of the videos, \$age is recorded walking out of a closed room, in his hand he was carefully holding a glass cup of some sort, which had some intriging red liquid in it.
 $age checked the liquid, observed it for a while and then drank it.
 Immediately after, his body started to twitch, his eyes turned red, but instead of agony, he seemed to enjoy it and even had a strange grin on his face during the process. He looked really excited, he then took the cup and crushed it in his palm whitout leaving a single cut in his hand. He also started moving noticeably faster than before.
 sissing...the video then ends
