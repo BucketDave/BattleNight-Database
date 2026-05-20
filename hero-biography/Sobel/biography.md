@@ -50,6 +50,8 @@ Once it was done, the young man pressed another button, where the mechanical han
 What he missed, was how a Halloween toy android hung on the back of the mechanical hand, the toy was looking back at the garbage dump while smoking a cigar. The smoke was puffing out of his eyes, ears and the top of his head. Soon, the rear compartment closed and the ship took off.
 “Come on. It’s time for me to see this world.” Sobel thought.
 
+![image_part3](./images/image_part3.jpeg)
+
 ## Part 4
 
 "Hey, Patches. Come to see Moxxi again?”
@@ -73,4 +75,4 @@ As he said this he had chucked a cigar out. The cigar was suddenly lit in the ai
 “Officer, take it easy, as I am displaying my powers only in hopes to gain your respect. What I want to say, has something to do with the Vortex.”
 Vidar and Legolas looked at each other and nodded their heads, “Alright then, Mr. Boomer, please take off all of your explosives and come with us to headquarters, where we can discuss this.”
 
-![image_part3](./images/image_part3.jpeg)
+![image_part4](./images/image_part4.jpeg)
