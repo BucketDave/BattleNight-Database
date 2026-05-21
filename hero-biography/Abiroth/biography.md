@@ -23,6 +23,7 @@ He passed through the doorway and glanced back to find the city wall restored. A
 The youth broke into a cold sweat, his golden hair turning somewhat green just like his face. Silently, he closed the live stream, thinking, “Is this the Apocalypse?”
 
 **Paradise Tower**
+
 “Miss Williams, we've found him.” Someone reported to the lazy lady.
 “Oh? Where?”
 “Bell Basin, a youtuber is doing a live stream,” looking at the girl on the wall, the reporter hesitated for a bit, “and she's there too.”
@@ -32,6 +33,7 @@ So, the whip girl looked up to see the aircraft with a giant logo, ablaze with l
 Miss Williams lost her composure for the first time. Absentmindedly, she murmured, “Why again?”
 
 **Outside the Paradise**
+
 As soon as the trending topic appeared, various forces flocked around the Paradise, waiting for it to explode for profit or perish in pieces. Only when IFOB's fleet arrived did the others leave disappointed. $age looked at the Paradise in front of her, the meteor crater resembling an eye, blinking with dropped frames. A layer of solidifying halo gradually covered the planet. He felt regret for couldn't stop “stranding” again. Three parallel universes stranding is far beyond his imagination. His theory couldn't be confirmed, unless he found any kind of power can slow down the process of the stranding. Then, “galaxy flats” might appear and trillions of lives can be saved. Thoughts racing, he saw the speed of the halo and blinking magically slowing down.
 
 ![image_part2](./images/image_part2.jpeg)
