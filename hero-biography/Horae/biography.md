@@ -1,5 +1,5 @@
-# Biography Horae
-## Part 1
+# 🌿 Biography Horae 🌿
+## Chapter 1
 
 In the year 2077, the few remaining cities on Earth called immuno-cities were severely polluted, with the intricate steel labyrinths of buildings deserted inside.
 A botanist named Horae used gene technology to cultivate a super plant that glows - Gleam Grass. This grass grows rapidly while emitting a strong fluorescence to illuminate the surroundings.
@@ -9,7 +9,7 @@ At first, Gleam Grass struggled to grow amidst the rust and ruins. Later, under 
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 Just as the ecological environment was starting to take shape, a violent biker gang suddenly broke into the plant garden, wearing motorcycle jackets and their faces covered in oil. They called themselves "Flying Bugs."
 "Get all your Gleam Grass loaded up for me, or else I'll blow up your research institute!" a scar-faced man threatened with a weapon.
@@ -21,7 +21,7 @@ Horae realized that invasion and war could happen at any time. To establish an "
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
 "Don't worry, this experiment has been validated already, nothing will go wrong." Horae said to her assistant.
 "Are you sure? With this gene combination, there are still risks."
