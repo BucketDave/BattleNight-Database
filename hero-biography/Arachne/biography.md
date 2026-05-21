@@ -1,5 +1,5 @@
-# Biography Arachne
-## Part 1
+# 🕸️ Biography Arachne 🕸️
+## Chapter 1
 
 At dusk, Arachne stood before her loom, her slender fingers gracefully weaving threads. In the flickering candlelight, her beautiful face looked all the more enchanting, her jade-like skin glowing in the light, and her flowing hair swaying gently with her movements. 
 Footsteps sounded outside the door, and she lifted her lips into a meaningful smile.
@@ -16,7 +16,7 @@ Her eyes split into eight, each one desperately wanting a prey.
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 The weaving chamber soon returned to calm, with only the loom still at work. 
 Arachne's skill was indeed unparalleled: she could weave the very essence of her prey into the most splendid patterns. Behind those breathtaking works lay countless vanished souls. 
@@ -34,7 +34,7 @@ What seemed like maddening designs were, in fact, projections of the truth.
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
 From the curse, Arachne gained tremendous power. She no longer needed to hide her true nature, shifting between human and spider forms as naturally as breathing. 
 She began to weave an even grander web, extending her influence further and further.
