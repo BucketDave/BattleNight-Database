@@ -1,5 +1,5 @@
-# Biography Chessia
-## Part 1
+# ⚰️ Biography Chessia ⚰️
+## Chapter 1
 
 In a secluded mountain range deep within the European Alps, there stands an ancient monastery veiled in mist.
 This is the home of a legendary family, one tasked with handling the Church’s darkest and most secretive missions. Chessia de Morte was born into such a lineage.
@@ -12,7 +12,7 @@ To her, death was not an end, but a transition into another form of existence.
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 As war ravaged the continent, Chessia embarked on her true mission.
 With a specially crafted coffin carried on her shoulder, inside were not only medical instruments but also rare poisons and mysterious elixirs. She was no ordinary field nurse but a cold-blooded "arbiter of life and death."
@@ -23,7 +23,7 @@ She kept a secret dossier of death, cataloging every individual she deemed "unwo
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
 As time passed, Chessia forged a terrifying reputation within both the military and the Church.
 She was no longer merely a nun—she became something between life and death. She founded a secret cult, the "Sacred Judgment of Death," which specializes in dealing with those cast aside by society, the "irreparable" ones.
