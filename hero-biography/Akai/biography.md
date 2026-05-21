@@ -1,5 +1,5 @@
-# Biography Akai
-## Part 1 Bloodline
+# ⚔️ Biography Akai ⚔️
+## Chapter 1: Bloodline
 
 The wind howled through the mountain village, sweeping over the snow-covered homes. At the base of the mountain, the Akai family forge stood. The flame inside was burning as ever, so warm and eternal.
 Taki Akai was born on a bitter winter night, beneath a sky darkened by crimson clouds. His grandmother saw it as a sign—an omen of his destiny, bound by the sword, for the crimson was as much like the forging fire. His father, the last of the village's traditional swordsmiths, and his mother, a descendant of an ancient samurai clan, were also born of a bloodline forged in fire and steel.
@@ -9,7 +9,7 @@ In the family vault, three legendary swords hung in quiet anticipation—"Earths
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2 Awakening
+## Chapter 2: Awakening
 
 At Taki's thirteen, a fateful event changed Taki Akai’s life. A group of wandering samurai stormed into the village, demanding the Akai family surrender their ancestral secrets of sword forging. His father refused, and in the ensuing battle, he was gravely wounded. Taki watched in horror as his father fell, and an overwhelming fury ignited within.
 He broke into the weapons room, instinctively grabbing three legendary blades—Earthshatter, Skybreaker, and the nameless black sword. At that moment, something within him stirred. The swords danced in his hands as if conscious, repelling the invaders with ease.
@@ -21,7 +21,7 @@ That night marked the start of the legend: "The Three-sword Kenshi" was born.
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3 The Legend
+## Chapter 3: The Legend
 
 As the years passed, the name of Taki Akai spread far and wide. He was a warrior, a guardian—an entity who could balance war and peace.
 His swordsmanship had transcended the boundaries of conventional martial arts. Every strike was like a breathtaking dance, the three blades in his hands seeming to come alive. The Thousand Blade Storm was his most renowned technique, one that could release a flurry of strikes in an instant, so fast that it was impossible to be captured.
