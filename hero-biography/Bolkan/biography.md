@@ -1,5 +1,5 @@
-# Biography Bolkan
-## Part 1 The Crime
+# 🔨 Biography Bolkan 🔨
+## Chapter 1: The Crime
 
 Inside the IFOB Grand Assembly Hall, silence ran deep as an abyss.
 Despite prolonged efforts, the AAA cult's hidden strongholds remained untraceable. Instead, IFOB found itself forced into containment, sealing Sigils wherever they emerged. By now, one truth was undeniable: their spread could no longer be stopped.
@@ -24,7 +24,7 @@ Inside the medical pod, half of Bolkan's upper body was gone. Nanomachines worke
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2 The Chaos
+## Chapter 2: The Chaos
 
 Weeks passed. The galaxy grew restless.
 The struggle over Sigils escalated into open conflict.
@@ -43,7 +43,7 @@ The voice belonged to Dr. Bolkan, who had blocked the only exit. He was about to
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3 The Truth
+## Chapter 3: The Truth
 
 “Gilbert… we may need Lady Stasis here.” Irene realized the situation had slipped beyond her control. With the personnel on site, they likely couldn’t protect the doctor or detain the two intruders.
 Inside the lab, Bolkan moved with terrifying clarity. A portable nanoworkshop unfolded at his command. Precision tools danced as he engraved Sigils into his own flesh and Cyberware, calmly explaining each step like a lecture. The atmosphere was eerily serene, yet the modified woman and Mr. Z were both in a cold sweat.
@@ -63,7 +63,7 @@ Gilbert stepped forward and offered him a cigarette. “Tell us what happened.�
 
 ![image_part3](./images/image_part3.jpeg)
 
-## Part 4 Side Story
+## Side Story
 
 I once fancied myself a seeker standing atop the summit of knowledge—until desire stripped away all my pretense. I pursued truth, yet lusted after worldly fame and renown all the while. 
 That vanity rooted deep in my soul ultimately left me powerless against temptation.
