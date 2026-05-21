@@ -1,7 +1,7 @@
-# Biography Irene
-## Part 1
+# 🔹 Biography Irene 🔹
+## Chapter 1
 
-🏘️Somewhere in an unknown country, 122 London Street
+🏘️**Somewhere in an unknown country, 122 London Street**
 In a small Retro English building, Ms. Una made her way up the stairs. She reached for her key, turned her keys, slipped them in the keyhole, only to find out that the door was unlocked. She scolded and entered the apartment. When she entered, she heard the sound of a piano playing. It was Beethoven’s Moonlight Sonata 3rd Movement. As she listened, she entered the kitchen to prepare lunch for the tenant on the second floor. Not long after, an eager knock on the door was heard, a man’s voice spoke from the other side of the door, “Open the door! There’s been an incident! “Ms. Una opened the door. It’s Watson. Watson nodded to Ms. Una and rushed up to the second floor.
 He then entered a room, where he was met with a winding trail of smoke, the air filled with a pungent smell of burning weed; a young, curly-haired man was lying on the floor with multiple files lying all over the place. The young man didn’t pay any attention to Watson, who had just entered the room. If he hadn't opened his eyes, he looked almost asleep.
 Just as Watson wanted to say something the young stopped him with a “hush.” “It’s not the same this time; Irene has committed suicide.“ said Dr. Watson. 
@@ -18,21 +18,21 @@ They first checked the door and noted that it could only be locked with a key an
 “These are sleeping pills.“
 The young man approached and took the letter.
 [“Sherlock, I had guessed that the first person to read this letter was going to be you. By this time, I have already left here. The hypocrisy of this world disgusts me, I don’t know if whether there is a heaven or a hell to go to once I leave this place, but no matter what lies, I am curious to see. Apologies for the trouble I put you through. I hope that you can understand my sorrow. I would also ask you to bury me at the END of the Mountain personally. Please do not burn me into ashes, as I am afraid of pain. Till we meet in heaven, my dear brother.“]
+
 Watson watched as the young curly-haired man read the letter to him. His body trembled. It was the first time he had seen this men so emotional. Just as he wanted to console him, he heard him say.
 “Watson, I shall like to perform an autopsy. Please step aside.” Watson nodded, stepped out and closed the door behind him.
 
-> “Watson, I shall like to perform an autopsy. Please step aside.” Watson nodded, stepped out and closed the door behind him. 
-    After a while, the young curly-haired man came out, his hair was disordered, and he was sweating profusely, his face had become even paler than before, and it seemed as if he had lost some weight. Watson looked at him in distress and asked,
-    “Well? Was it suicide?”
-    ❔
+After a while, the young curly-haired man came out, his hair was disordered, and he was sweating profusely, his face had become even paler than before, and it seemed as if he had lost some weight. Watson looked at him in distress and asked,
+“Well? Was it suicide?”
+> ❔
     1. How would Sherlock answer, was it suicide? Say your reasons.
     2. Additional question: Please restore the truth.
     🎁As long as say a reasonable speculation, you will have the opportunity to get the Perfect Hires.
 >![image_part1](./images/image_part1.jpeg)
 
-## Part 2 Electricity and Magnetism
+## Chapter 2: Electricity and Magnetism
 
-🏡Somewhere in an unknown country, 122 London Street
+🏡**Somewhere in an unknown country, 122 London Street**
 It was a small Retro English building. Upon entering the building, Watson could hear the sound of a piano coming from the second floor. He stood at the entrance to listen for a while. It was Tempest the Third Movement. He shook his head and went up the stairs.
 He then entered a room, where he was met with a winding trail of smoke, the air filled with a pungent smell of incense; a young, curly-haired man was playing the piano passionately with his eyes closed, he was surrounded by multiple files lying all over the floor. The young man paid no attention to Watson, who had just entered the room; instead, he continued playing until the end of the movement.
 “This here is the case you wanted,” Watson was holding up a file in his hand, “I don't know why you are interested in such old cases. Anyway, it's good to see you bounce back. Your silence after Irene's accident is really worrying.”
@@ -74,9 +74,9 @@ Watson noticed this and asked politely, “Did I say something wrong?“
     As long as say a reasonable speculation, you will have the opportunity to get the Perfect Hires（Up to 10）
     *The Deadline for the event is the publication time of the next biography.
 
-## Part 3 Survivor
+## Chapter 3: Survivor
 
-🏘️Somewhere in an unknown country, 122 London Street
+🏘️**Somewhere in an unknown country, 122 London Street**
 Upon entering the room, Watson could hear the sound of a piano coming from the second floor. He stood at the entrance to listen for a while. It was Sonata Pathétique 3rd Movement. He was already used to this and headed straight for the second floor.
 Watson pushed open the door, where he was met with the fragrance of incense. He thought to himself that his sister's death had taken its toll on him. A young curly-haired man was playing the piano passionately with his eyes closed. He was playing without even looking at the music sheet. Watson glanced at the music sheet and realized it was the file of Faraday case. The young man stopped playing and looked over at Watson.
 There's a new case. Initially, I wasn't going to bother you with this one, but the perpetrator denies all accusations of the crime. It is now under investigation. So I wanted to ask if you were interested.”
@@ -98,7 +98,7 @@ After saying this, she leaned over on the wall and lost consciousness. The polic
 
 ![image_part3](./images/image_part3.jpeg)
 
-## Part 4
+## Chapter 4
 
 “Have you figured it out?” Asked Watson.
 As usual, he received a note, "This case finally let me confirm the previous speculations. Although the previous cases were unreasonable, I found those murderers now. This is a serial homicide or a serial imitation homicide, every case has a Chamber, there are no outsiders, they are made to look like accidents or suicides. I think if she didn't survive this time, it would have looked like a suicide case. She was drugged and tied to the bed by her closest person, and survived after be stabbed so many times. She is tough.“
@@ -106,8 +106,8 @@ As usual, he received a note, "This case finally let me confirm the previous spe
 The young man nodded his head, but then after shook it. He then wrote on another piece of note and gave it to him, "Although I don't have any evidence, my hunch is that her father set her up by suicide.“
 “What hatred can make father and daughter turn against each other like this? So Faraday was also killed by his family? Oh, yes, his son knows the function of the switch. He must have studied with his father.” He looked a little excited when he saw the young man nodding. I want to say something, but the young man has gone out.
 
----------------------------------
-Somewhere in an unknown country, 122 London Street
+---
+**Somewhere in an unknown country, 122 London Street**
 The melodious piano sound came from the second floor, which was Moonlight Sonata, the 1st Movement. The wind poured into the room from the window, and the curtains kept dancing with the music. Suddenly a shadow entered the room..
 "I have been waiting for you for a while.” The hoarse voice said.
 “The injury this time is quite serious. If it weren’t for you, I would have died in prison.”
@@ -122,9 +122,9 @@ The strange visitor then put her hand on the 'cover' of 'notebook', making the s
 
 ![image_part4](./images/image_part4.jpeg)
 
-## Part 5
+## Chapter 5
 
-🏘️Somewhere in an unknown country, 122 London Street
+🏘️**Somewhere in an unknown country, 122 London Street**
 The lively piano sound came from the bedroom on the second floor. It was magic waltz. A woman in a long dress was playing in front of the piano and said,“It's the last time. I'm really reluctant.”
 “Miss Forerunner, we have reached an agreement with Captain Every. It is time to leave the Oasis.“
 “Yes, the Tunal people are taking the oasis as their home. Unfortunately, we can't save more people. Is there still no news from my brother? Forget it, that guy can take care of himself. Let’s go.” Then she got up, covered the piano, stroked it again, and turned downstairs.
