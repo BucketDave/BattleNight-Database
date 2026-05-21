@@ -1,5 +1,5 @@
-# Biography Beamon
-## Part 1
+# ⭐ Biography Beamon ⭐
+## Chapter 1
 
 A big roaring sound was heard in the training room, it was yet another broken metal sand bag that carried out.
 “This is already the 13th broken metal sand bag this month.”
@@ -9,7 +9,7 @@ Samuel had overheard the staff worker’s conversation, which brought him into a
 
 ![image_part1](./images/image_part1.png)
 
-## Part 2
+## Chapter 2
 
 There were thunderous cheers all around, and countless camera flashes dazzling the entire venue. After winning this battle, he will find out the answer to that incident.
 As the man in the silver hat crept up to the center of the arena, he felt as if the truth itself was approaching him, his heart began to beat violently, the whole world fell into darkness, just then a beam of white light shot into the venue, the ground trembled violently under the powerful shock wave, and everything collapsed.
@@ -19,7 +19,7 @@ It was that dream again...After regaining consciousness, Beamon realized he was 
 
 ![image_part2](./images/image_part2.png)
 
-## Part 3
+## Chapter 3
 
 “Hey man, this time I got 20 of them.” Beamon boasted. Of course, the person he tried talking to didn’t reply, but this didn’t bother him, as he had long gotten used to this type of silent dialogues.
 “Let’s go for a drink at the B’s Club with the lady, the bounty reward this time is quite awesome. Haha.” still no response, but Beamon was sure, Sayung would show up at the bar on time as usual.
