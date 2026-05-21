@@ -2,6 +2,7 @@
 ## Chapter 1
 
 **Skeleton Sea--Narev Stadium**
+
 In the middle of the stadium floats a mechanical stage in the shape of a pyramid. A 3D holograph is projected above the stage in perfect quality and resolution. All kinds of light and laser robots light up the surrounding stage, creating a spectacular light show!
 “King of rapper - The Skeleton Sea Tour is about begin! Let’s do a countdown”
 “10”
