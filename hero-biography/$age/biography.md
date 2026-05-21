@@ -1,5 +1,5 @@
-# Biography $age
-## Part 1
+# 🔮 Biography $age 🔮
+## Chapter 1
 
 Skeleton Sea--Narev Stadium
 In the middle of the stadium floats a mechanical stage in the shape of a pyramid. A 3D holograph is projected above the stage in perfect quality and resolution. All kinds of light and laser robots light up the surrounding stage, creating a spectacular light show!
@@ -11,12 +11,12 @@ In the middle of the stadium floats a mechanical stage in the shape of a pyramid
 “1”
 As soon as the projected three-dimensional numbers disappeared, a sparkling red light from the sky shone on to the stage. And a dazzling person was standing under the light!
 “Ahhhhh! ~“
-$gae! $gae! $gae!” Fans went crazy.
+\$gae! \$gae! $gae!” Fans went crazy.
 In one of the corners of the stadium was a figure of a man, wearing cap with sunglasses on, his face was covered in a mask, his hand holding a camera. He seemed to be completely out of sync with the audience’s passionate energy of cheers.
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 In a dark room, a man was quickly flipping through the videos in his camera.
 In one of the videos, \$age is recorded walking out of a closed room, in his hand he was carefully holding a glass cup of some sort, which had some intriging red liquid in it.
@@ -28,7 +28,7 @@ The man’s deep laughter echoed in the room.
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
 “Sissing”
 The image is switched to indoor.
