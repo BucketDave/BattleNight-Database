@@ -1,5 +1,5 @@
-# Biography Eva
-## Part 1
+# ⚪ Biography Eva ⚪
+## Chapter 1
 
 In front of the huge floor-to-ceiling window, a short-haired woman was staring at the aircrafts coming and going outside the window, and the room was illuminated by the lights of these aircrafts periodically.
 "Beep. Prosthetic software is updated."
@@ -18,14 +18,14 @@ The man handed over a tablet to Eva and pointed at the exact location.
 "Ok, the usual way."
 "Aye. "
 
------------------------------------------------
+---
 On the other hand, Cecilia woke up Wukong and consulted him over the Moon Hall. Wukong said he had never heard of such place, but if there was anyone in the City of Truth had the knowledge of such place, it must be the dead priest of Moon Lake. Then, Cecilia and her group followed Wukong to the ruins of the Heavenly Palace together.
 Although the Heavenly Palace was in ruins, the room of the Moon Lake Priest was maintained in its original location, which was eerie. They opened the door to the room, and a massive volume of black water gushed out. The source of the black water seemed to be connected to the room. The black water was so deep that no one could see what was hidden at its depths. At this time, Xuxu stepped forward and waved her hands, and the vortex started to form in the center of the black water. The vortex rotated more rapidly and became larger until the bottom of the black water was revealed. In the depths of the black water rest a horn. After unleashing the tiger's roar, Aningákh held the horn in his hand, and the black water no longer gushed out from the horn. Yae Kun took the horn and blew it hard, causing the horn to emit a strange sound of tidal waves.
 Instantly, there were winds whistling in the clouds. Suddenly, a huge, winged fish descended through the clouds. The crowd understood right away that it might be the way to get to the Moon Hall, so they climbed onto the back of the fish. After everyone had sat on the fish's back, the flying fish spread its wings and steered the crowd into the clouds.
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 "You have arrived at the destination."
 Eva got to her feet, took off her jacket, activated her optical camouflage, opened the hatch, and leapt forward into the air. During her fall, Eva's body gradually became transparent, and eventually invisible.
@@ -36,13 +36,13 @@ Soon, a combat squad broke into the room, with one member of which carrying a su
 After a while, the communicator on the ground sounded. The general picked up the communicator and opened it; his expression changed suddenly. He then rushed towards Eva, wanting to remove her connector. Unfortunately, the audio started playing. Meanwhile, the audio was automatically playing on everyone's devices.
 Soon, the room restored its former silence; the blood was still flowing on the floor and Eva's device still running.
 
-------------------------------------------------------------
+---
 Cecilia and her group traveled through the clouds only to see nothing in front of them. As time passed, the faint sound of tidal waves in their ears gradually became clear. Suddenly, the clouds disappeared, and boundless water appeared before their eyes, behind the water was the moon. It turned out that the sky they had been seeing was a curtain of water, and the moon was behind it. Not waiting for people to settle down, the flying fish will leap into the water, Xuxu conjured up a bubble and wrap her and her friends inside it, sheltering them from the water. The lightness of the bubble helped the group escape the water. There was a curtain of water behind them and a vast continent beneath them. At the center of the continent was a gigantic moon. Eventually, the flying fish stopped by the moon, and Cecilia turned into an adult somehow but no one was surprised, as if she had always been like this.
 Half of the moon in front of them was buried just below the horizon. Surprisingly, the group noticed that the moon was in the center of a black lake instead of the ground when they came closer to it. The lake was densely infested with dormant fish, or mermen. But as the sound of tides played, more mermen were awakened. Watching this, Yae Kun slowly drew his swords and stood in front of Cecilia. Something that resembles the head of a man emerged from the lake, it looked at Cecilia and said, "Finally, you managed to get here."
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
 After Eva invaded the Musician's residual consciousness, she entered a world of data. If anyone were there, they could see a silver line chasing a black line. The black line kept jumping back and forth between different data strings, while the silver line was following it and gradually closing the distance between them. Suddenly, another black line appeared, the third one, the fourth one, and then countless others. Eva stopped chasing the first black line, she realized it was a trap. At that moment, Eva received a connection request from an unknown source, and knowing she had no choice, she consented.
 Eva opened her eyes and found herself in a white space with a door in it. Suddenly, the door was opened and a woman wearing a white mask walked in.
@@ -61,7 +61,7 @@ The white-masked man did not speak but pointed to the black-and-white battlefiel
 "He died eons ago and was the first deity humans slain, but he was still alive in the past, struggling. The people and I are just the caretakers of this place. But my sister, you have a greater mission ahead. "
 The white-masked woman handed a suitcase to Eva, pointed towards the door, and then jerked around and plunged into the black and white battlefield. Seeing the white figures being eclipsed by the black ones slowly, Eva felt complicated. Suddenly, the door behind her opened.
 
----------------------------------------------------------
+---
 The man in the lake emerged from underwater and opened his arms. The bizarre waves immediately spread all over the lake, causing the mermen in the lake to sleep again. Cecilia whispered in Xuxu's ears, then Xuxu cut the entire black lake in two, creating a pathway which leads to the bottom of the moon between each half of the lake. Aningákh summoned the tiger spirit, picked up Xuxu and Cecilia, and dashed forwards. Soon they arrived at the bottom of the moon. There was a hut at the bottom of the moon. Cecilia went up and opened the door, then waited quietly. Not long after, Eva came out of the room. Seeing Eva, Cecilia smiled happily.
 "Everyone is here, little Eva, it's been a long time."
 "Auntie Cecilia?"
