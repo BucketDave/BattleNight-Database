@@ -1,7 +1,7 @@
-# Biography Raymond
-## Part 1
+# 💥 Biography Raymond 💥
+## Chapter 1
 
-An Unnamed Planet - Stranding
+**An Unnamed Planet - Stranding**
 A squad of soldiers clad in specialized combat gear silently navigates through the ruins of an abandoned apartment. The building's ground level has been obliterated, leaving only its subterranean structure intact. Authorized with the badge of Black Mist on their uniforms, these troops, following a 'Floater' drone, were on a grim mission to find survivors and eliminate them without mercy.
 Eighteen levels below ground, in a modest 35-square-meter one-room apartment, stood an antiquated full-body gaming pod with a rectangular metal box on its base. Posted on it was a photograph of three young lads. The gaming pod's interface was flashing a red light, suggesting that the user's nutrient supply was nearly out. The light also casts an eerie glow on the surrounding dusty trophies, as if they were blinking rhythmically. The trophies encircled the pod just like flowers around a coffin, while the metal box served as an apt tombstone, signifying the burial of a person—or the imminent burial of one.
 Raymond has spent a decade in this virtual world as a brilliant scientist who, with his inventions, transformed the world. He provided a blissful life for his family and friends, foiled all malicious actions aimed at him, and rectified his real-world regrets. Sitting at the pinnacle of his virtual world, he watched the flashing warning lights on the interface, quietly awaiting the death of his physical body in the real world. For sure, this should be the final act of a pre-arranged funeral.
@@ -12,7 +12,7 @@ With a rumble, the door fell forward onto the ground, and two grenades were toss
 
 ![image_part1](./images/image_part1.png)
 
-## Part 2
+## Chapter 2
 
 A long, sustained white noise pierced Raymond's ears. Though with his eyes were closed, loads of images flushed into his head: the dazzling spotlight when his Golden Rule won an award, the smiles of friends at the debut of his Power Reactor, and the relieved expressions on his dear parents' faces at the 'Legion' conference. Then, the cold faces of the attendees at the Energy Association's audit meeting, his home burnt in flames, an old friend behind the prison lasers, his girlfriend who betrayed the team, his old feeble mother on the hospital bed, the seal on the lab's door, and at last, his funeral.
 His heart was filled with regret, for he knew that his invention had affected too many interests of all parties. If only he had realized sooner, if only he had paced everything more slowly... His thoughts began to drift, but a familiar electronic tone pulled him back.
@@ -37,7 +37,7 @@ The 'reborn' Raymond stood in place for a long time, contemplating, and finally 
 
 ![image_part2](./images/image_part2.png)
 
-## Part 3
+## Chapter 3
 
 The squad leader, caught off guard by Raymond's counterattack, proved his mettle as an elite in ground combats, swiftly scattering a handful of Spider Grenades into the room to buy his team time to adjust. Each tiny grenade, no bigger than a tack, unfolded into a mini spider, scuttling towards the nearest heat source — Raymond. The other squad members, recovering from the shock, began to fire in a coordinated cross-shooting pattern under the protection of the shield-holding soldiers.
 Just as Raymond regained his senses, he found himself under heavy fire. The Spider Grenades were detonated in an explosive matrix at his feet. The 'Shield Guard' on his waist deployed a protective shield, blocking most of the blast, but the grenades were an 'improved version', carrying metal shrapnel that penetrated the energy shield, causing him secondary damage. Raymond's left leg was instantly soaked in blood, but he paid it no mind. The Legion's Nano-intelligent Squad had arrived. It severed the pain perception in his leg, making him feel as if he was unharmed. He raised his right hand, which was outfitted with a prosthetic iron fist, as a shield over his head and quickly charged towards the door. As he exerted force on his left leg, the nano-troops proliferated rapidly, and the mechanical exoskeleton on his leg formed just in time to propel him out the door. Now's the fight time. Confronting the special forces team in the corridor, he calmly glanced at the HUD and pulled the trigger.
