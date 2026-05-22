@@ -1,13 +1,13 @@
-# Biography Megalith
-## Part 1
+# 🍂 Biography Megalith 🍂
+## Chapter 1
 
-🔎The Aviation Command Center.
+🔎**The Aviation Command Center.**
 A young commander stood in front of the screen, pointed to the red 'X' marks on the map and said, "you guys cannot make us go on a suicide mission. Fifteen fleets have been sent there, and not one has returned. There is undoubtedly a stronger civilization."
 "Hold your horses there, Shaka. This is what we are going to discuss in this conference. We didn’t detect any signs of carbon or silicon-based life on that planet; therefore, the life there could be mechanical. Or other forms of life which we humans cannot comprehend.” The talking old man stooped over. He was pretty short but spoke quite vigorously. He then started coughing violently, to whom everyone turned their attention; some of them stared at him with excitement, some with suspicion.
 (Coughing), “Someone just said that they would like to try probing another time. I want to inform everyone. The war has already begun! I announce, that it has begun and that the war decree is now in effect.” The old man took a pose straightening his back. Some generals had different opinions, but they moved their lips failed to say anything.
 
-----------------------------
-⭐The Monoceros Beta Star, Flagship of Youth Self Defense Forces.
+---
+⭐**The Monoceros Beta Star, Flagship of Youth Self Defense Forces.**
 “What the hell is that....” looking at the scene, making everyone in the room shudder.
 The entire surface was without any real traces. Black plants grew all over the building debris, and the whole place was just in ruins everywhere. Even from the air, it was visible, by the looks of these magnificent collapsed buildings, that there once stood a remarkably advanced civilization here. Members of the Self Defense Forces in the fleet were unaware of what kind of tragedy had to occur for everything to become like this.
 A shrilling alarm went off; it was the heat sensor that had detected sudden high temperatures in specific areas; observing their detectors, it was as if several volcanoes were becoming active at the same time and as if they were growing in numbers.
@@ -16,8 +16,8 @@ But once they got there, they could not find anything that qualified as an anoma
 Then all of a sudden a dense fog set in. The alarm started to sound more and more shrill, but at that point, it didn’t phase anyone because everyone had their attention focused on watching their escort vessels melt and evaporate in an instant. And then it started happening to them.
 Any issues with the dust and fog? They probably don’t know the answer to that.
 
-----------------------------
-🌃Hope City.
+---
+🌃**Hope City.**
 Right now, Hope City is like a Hell City; buildings are constantly collapsing, all kinds of people are screaming, running all over the place, some are praying, some are just staring at the launch pad of "Ark", some were torturing other people, some would say that this is hell itself.
 A man and a woman were shuttling through the chaotic crowds, avoiding being caught by the security guards. They quickly passed through the collapsed buildings used the ongoing chaos of groups of people to escape from the security’s peripheral view. They finally made it to the launch pad, but unfortunately, they were too late; the “Ark” had already taken off. The people on the ground watched as the Ark ascended into flight, watching the last hope of their civilization escaping.
 But the fog had just set in and the Ark quickly disappeared.
@@ -26,7 +26,7 @@ The girl was the first to return and asked the boy, “Shaka, still hesitating? 
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 “Are you ready?”
 “Yes.” Shaka’s look on his face became serious; he held the puppet with hands firmly and then proceeded to make a chanting sound with his seemingly closed mouth. With this chanting, the ground started to erupt; the eruption became more evident. Everyone was lying on the ground for cover, except for Shaka and the girl who calmly sat across.
@@ -44,7 +44,7 @@ The people had once again found their vitality in this shaking world.
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
 Shaka sat on a throne in his palace. His palace was made from gold and jade. The palace was glorious, and its decorations sparkled so brightly that they illuminated its surroundings. At the top of palace, a beam of light magically shone through the ground, illuminating the whole kingdom like daylight. Outside the palace, pilgrims were gathering from all over the place, chanting Shaka’s name.
 Far off into the distance, there were buildings made of rock. The kingdom consisted of systematic agriculture. Harvest fields were located close to the light sources, where various aromatic vegetation would grow for harvests; this was the kingdom’s primary food source. Further down was the industrial area. 'Buses' could be seen running on the wide roads, which were half underground and half on the ground.
@@ -57,16 +57,16 @@ Shaka was still pondering about the meaning of these conversations. First, he fe
 
 ![image_part3](./images/image_part3.jpeg)
 
-## Part 4
+## Chapter 4
 
-🌃Alpha Monoceres, Hope City.
+🌃**Alpha Monoceres, Hope City.**
 Sand had covered up all history; not a single trace of civilization remained, huge boulders were randomly abandoned all over this land. But, only a plant grew on one boulder.
 “Bang”. A probe car came swerving out, driving past the boulder, which was then followed by 'buses' which were half underground, half on the ground, carrying several Tunal people, who were wrapped in armors. Buses were catching up. They kept going straight ahead, smashing all the boulders in the way, and quickly got closer to the probe car. At that moment, the probe car in front didn’t manage to avoid the black branches and flipped over. The buses slowly came to a halt, and the Tunals watched someone came out of the probe car. The leader was a men who held double blades in his hands and wore green armor. The Tunal people looked at him with fury. Still, he warily stared off to the side at the branches emerging from the rocks.
 
-----------------------------
+---
 Shaka felt as if he was wandering in many silent and strange worlds. Sometimes it became a time cycle that kept repeating itself, sometimes he was watching a person keep running, and sometimes it was some meaningless daily routine where he couldn't see any faces. But as these experiences continued, he started to feel more and more powerful. He felt like something in him started to take root and grow inside. No one can say how long went by, but eventually, he began to hear the first sound. The sound became louder and louder as if there was something very fast coming closer and closer to him; he tried to turn over to evade it, but then he felt as if something bound him, he struggled with all his strength, and then the sound stopped. He had succeeded in stopping it, but still didn’t feel safe for the time being. He tried to struggle even more, and then he opened his eyes.
 
-----------------------------
+---
 Little stones kept coming off the boulder, and this apparent unusual situation eventually caught the attention of the Tunal people. From the rocks they saw how a human figure appeared, they recognized the people inside.
 “Lord Shaka!”
 Shaka looked at the Tunal people, he saw the shriveled bodies wrapped in armors, those slender heads and ugly mouths. He felt sick to his stomach, were these really the people that had followed him that year?
@@ -93,7 +93,7 @@ Every stopped in his tracks, and looked over at Shaka with surprise, “I've hea
 
 ![image_part4](./images/image_part4.jpeg)
 
-## Part 5
+## Chapter 5
 
 “It’s not easy to meet up with you, Mr. Every. Don’t look at me like that, this was the most suitable body I could find”,  said the young woman.
 “That human alliance, if you’re here about that, then you don’t have to say anything.” Every had set the tone for this important conversation.
