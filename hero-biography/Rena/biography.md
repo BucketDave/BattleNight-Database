@@ -1,7 +1,7 @@
-# Biography Rena
-## Part 1
+# 🔑 Biography Rena 🔑
+## Chapter 1
 
-📍Machine City
+📍**Machine City**
 The moon was hanging low in the sky, making the junkyard under it noticeable. The huge junkyard was parked with all kinds of cars, including the latest hovering sports car which was said to be the sort of vintage car unveiled in 1919. 
 Suddenly, an abrupt curse broke the silence in the junkyard.
 "Dang it, there's a part missing." Mikaela banged the car angrily, which started creaking in response.
@@ -14,7 +14,7 @@ The girl was about the age of a high school student, wearing a pair of black-fra
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 "Fizzzzzzzz."
 The communicator on Rena's chest was vibrating.
@@ -29,8 +29,9 @@ Machine City was filled with all kinds of robots and mechanical creatures, but n
 When Rena arrived on the scene, she encountered a swarm of nanobots that were trying to attack the scientist and steal his research.
 
 ![image_part2](./images/image_part2.jpeg)
+![image_part4](./images/image_part4.jpeg)
 
-## Part 3
+## Chapter 3
 
 Rena stood on the roof of the building, now wearing her mech; its armor was inlaid with red crystals, and the energy within was surging. Rena sighed, "Mikayla definitely couldn't be just a car workshop owner."
 She raised her giant crossbow, whose sights quickly auto-scanned the wielder, aimed at the attack target, and revealed the enemy's information in front of her.
