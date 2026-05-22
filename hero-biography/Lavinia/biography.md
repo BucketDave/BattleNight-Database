@@ -1,5 +1,5 @@
-# Biography Lavinia
-## Part 1
+# 💥 Biography Lavinia 💥
+## Chapter 1
 
 This here is a huge red crater. The soil and rocks inside seem to have crystallized due to the high temperature, exuding a dangerous atmosphere. When standing at the edge and looking into the bottom of the crater, it would seem as if the light is somewhat distorted.
 A blue Starry Swallow flew by right over the red crater. It suddenly began to stir its wings violently and struggled to fly out of the crater. It failed and its body began to grow bigger, its tail had grown longer like a snake, its blue feathers had turned red, its wings had grown out claws and its beak had changed into that of an eagle’s. Then, it beamed, found its prey and dived towards two humans near the crater. One of them threw out five red metal cards, and the star swallow fell directly after being hit.
@@ -17,14 +17,15 @@ The two then carried on with their conversation, as if nothing happened.
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 “Bang”, the door opened, Shreatah entered the room gasping for breath, looking at Mikaela who just put down her tools, and said，
 “Scarlet ... 1 ... has ... appeared.”
 “Where?”
 “Boehler, also the AAA, they fought, and made a pretty big racket.”
 “That close to The Vortex? Inform Boomer, the rest act immediately.”
-——
+
+---
 Several giant warships were hovering over Boehler, with their cannons aimed at the ground. On the ground, a white-haired girl was confronting a group of people in black robes, it’s just a temporary confrontation. There was a mess around them, full of broken and crystalline red rocks, prostrate black plants, indescribable creatures with countless eyes on their bodies, and a number of bodies of these bat-like creatures.
 “No.3, no, Lavinia, consider our proposal, return with us, you’ve got talent, you are better than your father, he will be at your disposal.”
 “Nice proposal, but I love to travel a lot. Like this time, I was attracted by The Vortex and travelled all the way here. Now, I think I can revenge while traveling!” Before she finished speaking, she charged towards the black-robed man with her big sword. 
@@ -36,7 +37,7 @@ Soon, he finally could see who it was. There, jumping off the aircraft one by on
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
 Lavinia, who had just regained consciousness, found herself whiffing a familiar smell of formalin, oil and blood.
 “I hate this smell.”
@@ -54,6 +55,8 @@ When she opened her eyes again, she found herself at the bottom of a pit, and th
 “Phew, yet another nightmare.”
 
 ![image_part3](./images/image_part3.jpeg)
+
+## Chapter 4
 
 The war was imminent. 
 IFOB and the black-robed men were waiting for their opportunity. Warships were blowing up behind them, and it seemed like there were only a few AAA warships had remained. The IFOB was waiting for a determined outcome from the battle above, it seemed as if the black-robed men had given up, each of them just stood on the spot with their heads down.
