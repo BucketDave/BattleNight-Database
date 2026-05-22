@@ -1,5 +1,5 @@
 # Biography Legolas
-## Part 1
+## Chapter 1
 
 The blade of the sword broke through the air with a whistling sound, a perfect bullseye
 Legolas withdrew his arrow, finishing up on the day’s training session.
@@ -12,7 +12,7 @@ Legolas, looking at the Temple, sat down, gazed at his Goddess and devoutly bend
 
 ![image_part1](./images/image_part1.png)
 
-## Part 2
+## Chapter 2
 
 A person in rags approached, his face was covered in dirt, making it difficult to make out his face.
 Legolas equipped her bow with an arrow, as she was wary of the approaching stranger.
@@ -24,7 +24,7 @@ Legolas was astounded at his appearance: “How did you end up like this?”
 
 ![image_part2](./images/image_part2.jpg)
 
-## Part 3
+## Chapter 3
 
 “Did you see Vidar of the Lion Ape Tribe?”
 Legolas frowned with disdain: “He is a little kid.” 
