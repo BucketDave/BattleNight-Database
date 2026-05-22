@@ -1,7 +1,7 @@
-# Biography Mikaela
-## Part 1
+# ⚡ Biography Mikaela ⚡
+## Chapter 1
 
-Ferry Planet
+**Ferry Planet**
 Somewhere in a basement lab of a Chip Store, Mikaela was whistling a tune whilst studying an unknown raw material under the microscope, she was so focused that she didn’t notice the door open, as she started observing her specimen from another angle, she muttered, “why have there been so many it lately? It’s been so costly for us”
 A hand from the darkness stretched out and grabbed her by the shoulder.
 “Ahhhh!” Mikaela screamed, “who is that! You scared me half to death!”
@@ -12,10 +12,9 @@ She looked back and saw a red headed boy waving at her, “hey Mikaela, long tim
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
-Ferry Planet 
-
+**Ferry Planet** 
 “Brat!”
 “Crying Ghost!”
 “You and your disgraceful dad should take a hike.”
@@ -27,17 +26,16 @@ A girl then walked up to the boy, helped him up and patted the dust off of him, 
 “I want to become stronger, so that one day I can protect Mikaela and dad.”
 “What are you saying?” The girl tilted her head to look at the boy, his eyes were lit with fire.
 
-----------------------------
-
- Deep in the Skeleton Sea, there is a gradually developing space-time vortex, in this tranquil universe, this vortex seems to be slowly devouring the universe. On a planet at the face of a vortex, troops of all types of uniforms were coming and going, and an endless stream of material ships and transport ships of various forces. 
+---
+Deep in the Skeleton Sea, there is a gradually developing space-time vortex, in this tranquil universe, this vortex seems to be slowly devouring the universe. On a planet at the face of a vortex, troops of all types of uniforms were coming and going, and an endless stream of material ships and transport ships of various forces. 
 “Welcome to the Infinite Forward Operating Base. What do you think of the view here?”. Shreateh pointed at the vortex outside the window.
 “Is this the officer treatment you were talking about? if I don’t help uncle to prove him experiment is right, I wouldn’t have cared about your alliance what so ever.” Mikaela glanced at her very clean but cramped room, ignoring Shreateh’s awkward look, she went on to exclaim, “as usual, I’ll be sleeping in the bedroom, and you’ll be sleeping in the living room.”
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
-🌏 Biography — Universe Particle 🌏
+🌏 **Biography — Universe Particle** 🌏
 
 What made Mikaela popular in black market is her knowledge about High Dimensional Matters (HDM). Universe Particle is one kind of HDMs. When the matter from a high dimension comes back to the 3 dimensional world, matter of other universes expand and contract in the chaotic dimension after passing through multi-dimensional channels. Most forms of matter cannot make it through this trip of dimensions, but just like the big bang, these particles must go through a process of entropy, high dimensions gradually then become into 3 dimensional ones, during this process, channels solidify and parallel universes are then connected.
 
