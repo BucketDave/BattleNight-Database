@@ -1,4 +1,4 @@
-# 🌠 Biography Cecilia 🌠
+# 🌠 Biography Cecilia & Kurisu 🌠
 ## Chapter 1
 
 “An unfathomable destructive force!” was exclaimed out of nowhere, just then a black portal appeared, from which two shadows gracefully leaped out of, they were $age and Lavinia.
