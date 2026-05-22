@@ -1,7 +1,7 @@
-# Biography Lamia
-## Part 1
+# 💉 Biography Lamia 💉
+## Chapter 1
 
-🕸️The Heart of the Abyss
+🕸️**The Heart of the Abyss**
 After passing through the mutated organisms only silent darkness was left.
 At the Heart of the Abyss is an endless darkness, like a tide of blackness swallowing everything in its path.
 Some soldiers were rescuing a wounded woman in an rundown aircraft. “Lamia, was everything that you did worth it? Sacrificing hundreds of lives just to know the biological mutations of the abyss.”
@@ -12,7 +12,7 @@ A terrible unknown entity had awakened.
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 The sound of countless mosquitoes buzzing in the head, which awoke Lamia to a splitting headache.
 Her eyes had not opened yet, but her mind was cluttered with countless thoughts. All sounds could be heard crystal clear as if they were really close, she could even hear the sound of bug wings flapping at hundreds of meters away. 
@@ -24,14 +24,15 @@ A broken limb stood on the ground before her, her whole team had turned into mum
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3 Light House
+## Chapter 3
 
+**Light House**
 Researcher Lamia was labeled as “lost” 7 days ago, her tracker’s signal shows a route that ordinary people cannot cross.
 “Lamia has most likely been infected, this proves that that anti-serum is ineffective...”  a young researcher with glasses was looking at the research report.
 “ No, Wright, look at her route, only a conscious organism can make that strict of a path.“
 Dr. Ron’s face turned pale as he looked at the display panel, his fingers trembled slightly, while depicting the lines.
 “She’s definitely still alive...just in a different form.”
-Abyss
+**Abyss**
 The Human Base cannot accomadate any other alien species. Lamia would know that policy better than anyone else.
 This is the 13th day at the Abyss, this occurrence presents danger and opportunity. Over here, Lamia can get closer to the thing she has been researching at the Light House for so many years.
 “Now I see...the transformation is not changing genes, it’s changing at will. For example, a bee can turn into a plant...or sometimes a local change can occur.”
