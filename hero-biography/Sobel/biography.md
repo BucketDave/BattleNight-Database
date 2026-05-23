@@ -1,5 +1,5 @@
-# Biography Sobel
-## Part 1
+# 👓 Biography Sobel 👓
+## Chapter 1
 
 Earth, at the workshop for shaping solid rocket fuel of the Third Research Institute of the Galaxy Aerospace and Technology Group.
 “Sir, there’s someone here to see you.”
@@ -17,7 +17,7 @@ Please wake up......”
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 As Sobel regained consciousness, he discovered that his face was flat on the ground, like a dog trying to eat the floor. He tried to stand up, but he couldn’t feel his own body. He whispered a curse, as he came to realize that he was only a head.
 “How could someone as old as me still have to go through this.”
@@ -38,7 +38,7 @@ Sobel felt very strange as if someone had woken him up from a deep slumber, it a
 
 ![image_part2](./images/image_part2.jpeg)
 
-## Part 3
+## Chapter 3
 
 Bohler, Tenth Satellite. 
 A spaceship slowly landed on the ground. Once the spaceship had landed, a Cyborg IFOB dressed in green and white opened the trunk of the spaceship while listening to $age’s music, the rear compartment of this spaceship was filled with all sorts of mechanical accessories and old mechanical parts. 
@@ -52,7 +52,7 @@ What he missed, was how a Halloween toy android hung on the back of the mechanic
 
 ![image_part3](./images/image_part3.jpeg)
 
-## Part 4
+## Chapter 4
 
 "Hey, Patches. Come to see Moxxi again?”
 “Who told you that? I just came over to get a drink and warm up.”
@@ -62,7 +62,7 @@ What he missed, was how a Halloween toy android hung on the back of the mechanic
 All of a sudden, a group of people started causing a commotion, Patches immediately stood up and said, “Is Moxxi there?” He went over to the commotion and saw that there were 3 people in confrontation with each other, while everyone around them was kicking up a fuss. 
 “How dare they stir up commotion at Moxxi’s bar?”
 
-----------------------------
+---
 Sobel frowned. His original plan is to keep a low profile and collecting the information. He didn’t think that things would end up this way. 
 “Listen kids, I couldn’t help but overhear your interesting conversation, but I am not here to steal anything.” He kept trying to explain.
 “You can explain to the police, the alarm of Moxxi’s bars is quite fast.” The two men with electroplated tattoos fiercely exclaimed.
