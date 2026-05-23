@@ -1,5 +1,5 @@
-# Biography Yae Kumo
-## Part 1
+# 🌕 Biography Yae Kumo 🌕
+## Chapter 1
 
 Anun, on the inside, connects its front gate and rear gate with a broad main road, while on the outside, surrounds itself with layers of high walls to ward off any possible hazard. The mountain that is not far away from Anun is Mount Barch, to whose opposite stands Glaad, the most famous city across the globe. Normally, adventurers would team up in the tavern of Anun before hitting the road, to protect themselves from baddy ambush and Koujin attack. At this moment, a young girl was trying to persuade the ranger in front of her to let her to join his ranks. The ranger, who looked young and seemed to have just come of age, gripped a special Totsuka-no-Tsurugi sword hanging from his belt, looking embarrassed.
 "Listen, young lady, I would love to have one more travel companion, but this journey holds special meaning to me. Plus, it may be romantic for me and my better half, but it is too dangerous a trip for you. If you could wait, I’d be glad to take you on a trip a few years later. To Glaad, or the moon, you name it."
@@ -12,7 +12,7 @@ Kumo Hime stroked the little girl’s head and rushed into the thick smoke with 
 
 ![image_part1](./images/image_part1.jpeg)
 
-## Part 2
+## Chapter 2
 
 The little girl started running desperately for life. When she rushed across the gate, a swathe of bright light descended in front of her. She subconsciously covered her eyes in her hands, and suddenly everything went quiet, leaving behind no screams, no sounds of fighting and killing, only the sounds of the wind blowing across grass. After a while, she opened her eyes and saw corpses everywhere, of people and eerie plants. Feeling a bit terrified, the little girl took a step back and touched something behind her, she then quickly turned around and backed up in fear. The little girl was about to scream when she realized that it was Yae, thus was able to stifle the screams. Yae was covered in blood now, with a sword in each hand, one of which belonged to Kumo.
 "Don’t be afraid, I will protect you, for whatever it takes. I will keep my promise and escort you to the end of the journey. You may leave this to me and move on. "
@@ -22,3 +22,16 @@ With his breathing simmering down, Yae assumed his starting stance, squat down a
 Seeing this, Yae let out a sigh of relief and got to his feet with the help of his swords. He then lifted the two swords and spit some green liquid on them, with a hideous smile on his face, "I don’t know how long I will be able live, but, your poison seems to have less effect on me now. An eye for an eye, you guys can get a taste of your own poison."
 
 ![image_part2](./images/image_part2.jpeg)
+
+## Chapter 3
+
+Again, just like last time, a swathe of white light appeared after the little girl had been running for a while, along with all those sounds that all went missing. After opening her eyes again, she found herself in front of an old house, which was very much like the ancestral house in the forest and was also very much like the temple in the Spring City. There was nothing around, no walls, no moon, no clouds, no Koujins, no corpses, and no cooking smokes. There was only complete darkness all around, and the only thing that was within the field of vision was an old house. There was a snoozing old man at the door, the hood covering his face made it impossible to make out his face. A dark walking stick was at his feet, seemingly made of two fragile tree twigs, with some vines and flowers still attached to them. The old man seemed to be awake, he moved his finger, looked up and saw the little girl.
+"I am too old and always have nightmares. Fortunately, I woke up from the nightmare in time, otherwise it could’ve hurt you."
+As he spoke, a green sprout seemed to grow at the old man's feet but was nipped in the bud quickly by the old man with his cane. Subconsciously, the old man skimmed the empty sky and shook his head.
+"Come inside, it's warm and cozy."
+The old man got up and pushed the door, soon a fire was lit up, and the little girl followed him in. The house was clean, with only a table, a chair, a bed, and a coffin. The old man went to the coffin, bent down and touched the face of a young girl inside it, shrugged his shoulders and burst into tears. He leaned down and kissed the young girl, took off her necklace, and watched the young girl in the coffin gradually 'withering' and finally turn into dust, leaving behind only a wood comb. With tears in his eyes, the old man clutched the wood comb in his hand, handed the necklace to the little girl, and said,
+"Koujins from the Moon, have all been eaten away by me. All their power is confined in my body. Spending a thousand of years waiting for you is the best I can get for starting my revenge. See you in the Moon Hall, your Highness."
+The old man's body began to be showered in green flames, his wrinkles disappeared, along with his grey hair, and his body straightened up. The black case covering the walking stick was burned off to reveal two swords. In the flames, the little girl seemed to see Yae, the man who protected her from the harm of Koujins.
+She slowly put on the necklace, banished her childishness and said firmly, "You have my word."
+
+![image_part3](./images/image_part3.jpeg)
