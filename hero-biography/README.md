@@ -60,10 +60,10 @@
 
 ---
 > CheckList
-    - [ ] Images 
-    - [ ] Text
-    - [ ] Formatting
-    - [ ] Emojis
+- [ ] Images
+- [ ] Text
+- [ ] Formatting
+- [ ] Emojis
 
 > Todo
-    - [ ] Repalce all discord image links with facebook image links  
+- [ ] Repalce all discord image links with facebook image links  
