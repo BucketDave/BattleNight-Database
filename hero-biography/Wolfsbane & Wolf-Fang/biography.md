@@ -1,7 +1,7 @@
-# Biography Wolfsbane & Wolf-Fang
-## Part 1
+# 💫 Biography Wolfsbane & Wolf-Fang 💫
+## Chapter 1
 
-Niggu Star
+**Niggu Star**
 Under the moon, there were some gang members, surrounding an elegant gentleman in a suit. They bowed to him very obsequiously. One of them was flattering,
 "My congratulations, Brother Roger! I admire you so much! You have made it to a backbone in just a few months. Consider me... I mean, order me to serve you whenever you want. I can do many things, hehe..."
 Roger smiled, seemingly very much enjoying the compliment. He lowered his head and signaled the man to light his cigarette. He glanced at the man, casually took out a mecha starter from the lining pocket of his suit, and threw it to him casually,
@@ -22,13 +22,12 @@ Another full moon rose behind him. 'Roger' felt something crawling inside his le
 
 ![image_part1](./images/image_part1.png)
 
-## Part 2
+## Chapter 2
 
 It was as if the man praying had anticipated this to come. He turned his head to 'look' at Roger. Despite being a veteran, Roger could no longer maintain his composure—his other eye had started to itch as well. Fortunately, his "Knight" mech descended from the sky just in time, crashing down on that man. The hand cannon blasted the branches off his body, freeing Roger. He glanced at his now fully grown "left eye"—a small tree had sprouted, and atop it was a child, identical to him in appearance. 
 This was so disgusting. Drawing his sword, he severed the tree, only to also slice through the child's legs. His first instinct was to end it with another strike. But the child murmured, "Father," stopping his action. "Whatever". He scooped up the child—who had yet to grow arms and now lacked legs—and placed it inside the cockpit.
 
 ---
-…………….
 Just as he was about to escape the scene, a sharp branch pierced his left shoulder. At that moment, the child opened its eyes, and Roger’s blood dyed its once-blue irises a deep red. Then, before Roger could react, the child and the mech sped away from him, while he was dragged upwards by some force towards the towering tree.
 He grabbed at the branches, trying to wrestle against the force pulling him, but it was all in vain. His injuries were too severe, leaving him powerless to resist. All he managed to do was clutch a handful of dried leaves before being dragged further toward the treetop. Yet, he didn’t give up. His hands desperately reached for anything he could grasp, and finally, he latched onto a hollow in the tree’s trunk, holding on with all his strength, even as his fingernails tore off and the skin of his palms wore away.
 Just as he was on the brink of losing consciousness, a strange realization struck him—he was no longer being pulled forward. He looked at his hands, astonished to see the dried leaves taking root in his arms, sprouting tiny buds. Even his wounds had nearly healed. He carefully observed his surroundings and loosened his grip just to see what may come. The force carried him onto another branch. Seizing the opportunity, he opened his mouth and began swallowing the leaves. Then to the next spot, and the next.
@@ -62,7 +61,7 @@ Yet in reality, he was still here, rooted beneath the giant tree. The wind sent 
 
 ![image_part2](./images/image_part2.png)
 
-## Part 3
+## Chapter 3
 
 "Father?" He heard a voice.
 Wolfsbane opened his eyes to find two overlapping images before him. It took him a while to regain consciousness, perhaps because he hadn’t been able to think clearly for so long. He realized one of the images was coming from his empty left eye, so he closed his right eye. After focusing, he saw himself lying on the floor of the mech’s cockpit, his legs fused at the roots of the machine. Living metal was spreading across his body, and at his shoulders, biomimetic muscle fibers and neural bundles twitched, while two metal arms were growing.
@@ -86,25 +85,28 @@ The girl walked briskly toward a newsstand in the city. She picked up a newspape
 
 ![image_part3](./images/image_part3.png)
 
-## Part 4
+## Chapter 4
 
-Bell Star
+**Bell Star**
 Wolf-Fang's finger morphed into a small blade as she swiftly cut off her long hair. Then, pulling out a makeup kit, she applied makeup to give herself the appearance of a man. After changing into her pre-prepared clothes, she stepped out of the lounge and started a livestream, blending in perfectly as one of the tourists. As she approached the city gates, she looked for the landmarks from her memory. Just then, someone handed her an apocalyptic cult flyer. She mocked inwardly—how amusing that they would hand her a flyer. Well, she wouldn't mind ending this cult after finishing her business. She tucked the flyer into her pocket, but at that moment, an earthquake struck.
 “Damn, it’s started,” she muttered, feeling a surge of urgency. With no time to bother about the cult, she quickened her pace, looking for a quiet spot to blast a tunnel. Unexpectedly, members of the cult appeared and opened a tunnel for her. She couldn't help but wonder if Father had other servants in play.
 Once outside the city, she locked onto her target and leaped, sliding down the slope, only to be caught by a white-haired girl—the very person she had been searching for.
 Found her!
 She shut down her livestream and guided the girl toward EverGreat’s ship. Glancing at the mirage in the sky, she thought to herself, "By saving the Witch, I’ve saved millions of planets. Father will be proud." Jumping out of excitement, she sent a message to \$age and then left the area.
-…………………………
+
+---
 As soon as Wolf-Fang reached the first basement level of the building, she was spotted by a drone. It didn't take long for the Green Demon forces of Genesis to surround her.
 “Guess I have no choice but to fight. That's not elegant!”
 She infused her weapons with a crimson arcane, slashing through the air and sending arcs of energy slicing through this smoke-filled space. The glow reflected off the rising dust, turning the entire area into a swirling red cloud. From within the cloud, a figure manifested. Wolf-Fang wiped away non-existent sweat and continued on her way toward her destination. Luckily, her innate abilities outwon the Green Demons' regeneration powers, or she'd be stuck fighting them for longer.
 Reaching the 18th sublevel, she stood in front of the target’s apartment. Her finger morphed into a thin needle, slipping into the lock’s crevice. Arcane flowed through her fingers, and the door opened. She glanced at the display of the game pod. The person was still alive. Just to be sure, she topped up their nutrient solution. Then, she connected her White Queen module to the rectangular interface, copying the module over. Now, this “Legion” mobile communication hub was saved. Satisfied with her work, she carefully locked the door and left. Before leaving, as a habit, she dropped a quick text to her trusty helper, $age.
-…………………………
+
+---
 This time, Wolf-Fang had come for Hanba. According to her father's plan, only such a unique being could help destroy the withered forest. Its scorching life force was the exact opposite of the cold, withering energy of the forest. Even she dared not get too close. By the time she arrived on the scene, Hanba had already been crushed by D.
 From there, the situation got further out of control. Genesis and Aurora Order—the two major powers—had clashed, and Wolf-Fang realized things were slipping beyond her expectations. However, when she learned that even the IFOB had fallen into chaos and no one had come to mediate, she got it immediately—it had to be Gilbert’s doing!
 But well done, Gilbert! The bigger the chaos, the less likely anyone would notice her.
-................................................
-Kathre
+
+---
+**Kathre**
 Now she adopted the alias "Ken." She pretended to have the ability to tell the future, gathering a group of "scavengers" and forming an outsourcing team. Eventually, she was hired by Genesis and brought to this planet. Her original plan was to use her father’s identity—the "Many-Faced Saint"—to spread rumors to the Aurora Order, claiming that there was a chance to ascend to sainthood here, luring their strong members into creating chaos. In the chaos, she would then steal the power of the Keeper of the Moon-Lens. What she didn’t expect was to draw the attention of ‘The Fate Index’!
 Seeing her uncontrollable nosebleed, surely—her disguise had been seen through by Itheseos. He handed her a curved sword, and as they walked outside, he was the first to speak.
 “The Many-Faced Saint wouldn’t use such a clumsy trick to deceive people—nosebleed? Really, you thought that would work?”
@@ -116,13 +118,13 @@ Fine, the stronger he was, the more certain Father’s plan would succeed. Anyho
 
 ![image_part4](./images/image_part4.png)
 
-## Part 5
+## Chapter 5
 
-🪐Niggu Star
+🪐**Niggu Star**
 Wolf-Fang cut the mic, eyes fixed on the falling space station—burning up like a shooting star. She felt a brief moment of admiration—excitement, too. This was the moment.
 "Hang tight, kid," she shouted, " Lady Mech’s coming for you!"
 She hit the controller, pushing the ship forward like a streak of light, locked on Sarah’s trail.
-⛰️Materland Cliff
+⛰️**Materland Cliff**
 Sarah’s mech came crashing down between two massive, dead trees. Whispers filled her head—endless, maddening. The pain in her head grew unbearable, and before she could resist, she blacked out.
 Moments later, a red glow followed her down from the sky. Wolf-Fang, standing calmly on her mech, surveyed the scene. Seeing Sarah was only unconscious, she nodded in approval.
 "Tutorial complete. Congratulations on unlocking full access. Well done, beginner. From now on, leave it to us."
@@ -137,7 +139,7 @@ Time passed as it did. Until smoke rose from the cliff, and strange prayers whis
 
 ![image_part5](./images/image_part5.png)
 
-## Part 6
+## Chapter 6
 
 Moonlight bathed the cliff again. It was another new moon hanging over the twisted branches of the ancient tree. Yet between the branches, only shadows—dark spaces connecting to something unknown. From that void, countless crimson eyes blinked open.
 Wolf-Fang, still battling the tree-beings, glanced up at the moon somewhat confusingly. "Mother?" she muttered, and her eyes lost focus. Her weapon slipped from her hands, and the red light around her dulled, mixed in some purple light. Seizing the chance, the tree-beings closed in, leaving her more wounds. Many wooden spikes lodged in her body, blocking her regeneration. She continued to emit (or let's say, lose) energy, and couldn’t wake up.
