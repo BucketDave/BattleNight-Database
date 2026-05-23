@@ -1,4 +1,4 @@
-https://emojipedia.org/bug
+https://emojipedia.org/
 Usefull for getting Github/Discord compatible emojis for markdownfiles
 
 https://github.github.com/gfm/
