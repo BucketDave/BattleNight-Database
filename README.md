@@ -4,6 +4,7 @@ Database/wiki of community derived information relating to the mobile game [Batt
 
 [Hero Biographys](./hero-biography/README.md)         
 Hero Posters \[Work-in-progress]            
+
 Hero Basics/Skills \[Planned] 
 
 Game effects \[Planned] 
