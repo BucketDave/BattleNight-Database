@@ -2,7 +2,7 @@
 Database/wiki of community derived information relating to the mobile game [Battle Night: Cyberpunk RPG]
 
 
-[Hero Biographys](./hero-biography/README.md)         
+[Hero Biographies](./hero-biography/README.md)         
 
 Hero Posters \[Work-in-progress]            
 
@@ -14,9 +14,9 @@ Halidoms information \[Planned]
 
 Promotional/Social images \[Planned] 
 
-Store/arcade/guild, etc contents \[Planned] 
+Store/Arcade/Guild, etc. contents \[Planned] 
 
-Steller information \[Planned] 
+Stellar information \[Planned] 
 
 Community Guides/Information \[Planned] 
 
