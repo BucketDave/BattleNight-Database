@@ -51,7 +51,7 @@
 - [x] [Yae kumo](./Yae%20Kumo/biography.md)
 - [x] [Zephyr](./Zephyr%20&%20Elektra/biography.md)
 - [x] [Zeus](./Zeus/biography.md)
-- [ ] Li Yu
+- [x] Li Yu
 
 ---
 ## SideStoreys
